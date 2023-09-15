@@ -1,0 +1,96 @@
+svg.icon {
+   width: 1em; height: 1em;
+   /* width和height定义图标的默认宽度和高度*/
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+
+@font-face {
+font-family: 'iconfont';
+src: url('/fonts/iconfont.eot');
+src: url('/fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+url('/fonts/iconfont.woff2') format('woff2'),
+url('/fonts/iconfont.woff') format('woff'),
+url('/fonts/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shiwuqimin:before {
+  content: "\e748";
+}
+
+.icon-shiwuqimin1:before {
+  content: "\e756";
+}
+
+.icon-shiwu-:before {
+  content: "\ebdb";
+}
+
+.icon-shiwu-1:before {
+  content: "\ebed";
+}
+
+.icon-shiwu-2:before {
+  content: "\ebee";
+}
+
+.icon-shiwu-3:before {
+  content: "\ec0c";
+}
+
+.icon-shiwu-4:before {
+  content: "\ec2d";
+}
+
+.icon-shiwu-5:before {
+  content: "\ec31";
+}
+
+.icon-shiwu-6:before {
+  content: "\ec34";
+}
+
+.icon-shiwu-7:before {
+  content: "\ec4d";
+}
+
+.icon-shiwu-8:before {
+  content: "\ec52";
+}
+
+.icon-shiwu-9:before {
+  content: "\ec63";
+}
+
+.icon-Pizza:before {
+  content: "\e749";
+}
+
+.icon-sharpicons_ice-cream:before {
+  content: "\e7f6";
+}
+
+.icon-sharpicons_kebab:before {
+  content: "\e7f7";
+}
+
+.icon-sharpicons_chef-hat:before {
+  content: "\e7fb";
+}
+
+.icon-sharpicons_soup:before {
+  content: "\e7fc";
+}
+
+.icon-a-2-58:before {
+  content: "\e611";
+}
