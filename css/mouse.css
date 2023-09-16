@@ -24,3 +24,9 @@
     opacity: 0.5;
     transform: scale(0.5);
 }
+
+/*鼠标指针点击问题修复*/
+body {cursor: url(/cur/Point_悬停按钮标签页脚页码菜单栏.cur),auto!important;}
+body {cursor: url(/cur/Point_悬停按钮标签页脚页码菜单栏.cur),pointer!important;}
+a:hover{cursor:url(/cur/Point_悬停按钮标签页脚页码菜单栏.cur),auto!important;}
+
